@@ -1,0 +1,71 @@
+==== Article Titles and DOIs ====
+
+Article 1:
+  Title: Cesarean Section Epidemic: A Warning to Health Policy Makers Worldwide
+  DOI: https://doi.org/10.63720/b0p4dbsp
+  URL: https://jbaem.opensciencepress.com/articles/680ceff05ca9eac8b6d193d1
+
+Article 2:
+  Title: Disclosing Bad News to Patients: Balancing Culture and Autonomy
+  DOI: https://doi.org/10.63720/csxcs19r
+  URL: https://jbaem.opensciencepress.com/articles/680ceff25ca9eac8b6d193d7
+
+Article 3:
+  Title: Exploring Childbirth Trends and Maternal Awareness in Libya: Cross Sectional Study and Narrative Review (2014-2023)
+  DOI: https://doi.org/10.63720/gos6nqsi
+  URL: https://jbaem.opensciencepress.com/articles/680ceff45ca9eac8b6d193de
+
+Article 4:
+  Title: Revival of the Ross Procedure in Adults: A Narrative Review
+  DOI: https://doi.org/10.63720/ji3llyls
+  URL: https://jbaem.opensciencepress.com/articles/680ceff65ca9eac8b6d193e6
+
+Article 5:
+  Title: Ross Procedure Revisited: Evaluating its Role in Contemporary Cardiac Surgery
+  DOI: https://doi.org/10.63720/yg829zsd
+  URL: https://jbaem.opensciencepress.com/articles/680cf0015ca9eac8b6d193ef
+
+Article 6:
+  Title: Seroprevalence of Rubella Virus Antibodies and Antibody Titer Among Childbearing Aged Women
+  DOI: https://doi.org/10.63720/hb7id669
+  URL: https://jbaem.opensciencepress.com/articles/680cf0025ca9eac8b6d193f6
+
+Article 7:
+  Title: The Global Opioid Crisis: Lessons from the United States of America and Beyond
+  DOI: https://doi.org/10.63720/iscmg62x
+  URL: https://jbaem.opensciencepress.com/articles/680cf0075ca9eac8b6d19401
+
+Article 8:
+  Title: The Political Determinants of Healthcare Systems: Lessons from Libya and the United States of America
+  DOI: https://doi.org/10.63720/eojdaou5
+  URL: https://jbaem.opensciencepress.com/articles/680cf00c5ca9eac8b6d1940a
+
+Article 9:
+  Title: Addressing the Opioid Crisis in San Joaquin County, California: Evaluating the Impact and Limitations of the Opioid Safety Coalition’s Interventions
+  DOI: https://doi.org/10.63720/mrmoxpl1
+  URL: https://jbaem.opensciencepress.com/articles/680cf00e5ca9eac8b6d19410
+
+Article 10:
+  Title: Artificial Intelligence in Academic Writing: Opportunities and Risks from Planning to Publication
+  DOI: https://doi.org/10.63720/jqz1pdhl
+  URL: https://jbaem.opensciencepress.com/articles/680cf0135ca9eac8b6d19419
+
+Article 11:
+  Title: Aspirin’s Expanding Role in Cardiovascular Health, Inflammation Control, and Cancer Prevention
+  DOI: https://doi.org/10.63720/drh4idm1
+  URL: https://jbaem.opensciencepress.com/articles/680cf01e5ca9eac8b6d19423
+
+Article 12:
+  Title: Best Available Evidence: Overcoming Barriers and Building a Platform for Clarity and Closer Collaboration
+  DOI: https://doi.org/10.63720/dv1fz0zv
+  URL: https://jbaem.opensciencepress.com/articles/680cf0205ca9eac8b6d1942b
+
+Article 13:
+  Title: Breast Cancer Knowledge and Practice Among Women Attending Health Centres During Breast Cancer Awareness Campaign
+  DOI: https://doi.org/10.63720/brgg8q0o
+  URL: https://jbaem.opensciencepress.com/articles/680cf0245ca9eac8b6d19435
+
+Article 14:
+  Title: The Role of Artificial Intelligence in Cardiology
+  DOI: https://doi.org/10.63720/9mv0pjhr
+  URL: https://jbaem.opensciencepress.com/articles/680cf02a5ca9eac8b6d1943e
